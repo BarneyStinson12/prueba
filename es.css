@@ -1,0 +1,25 @@
+.padre{
+
+    height: 100px;
+    background-color: azure;
+    display: flex;
+    flex-flow:column;
+    justify-content:space-between;
+     
+}
+.primero{
+    border: solid;
+    flex: 1 1 auto;
+
+}
+.seg{
+    border: solid;
+    flex: 1 1 auto;
+}
+
+
+.ter{
+ border: solid;
+ flex-flow:column ;
+ flex: 9 1 auto;
+}
